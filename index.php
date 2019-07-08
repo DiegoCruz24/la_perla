@@ -1,5 +1,6 @@
 <?php  
 echo 'Prueba';
-
-echo 'new line';
+function mostrar_nombre(nombre){
+  echo 'Bienvenido '+nombre;
+}
 ?>
